@@ -11,7 +11,7 @@ spring:
       driver-class-name: org.mariadb.jdbc.Driver
       url: jdbc:mariadb://192.168.0.127:3307/webdb?characterEncoding=utf8
       username: webdb
-      password: '{ciper}AQCoYk1uZlvggHka7ejwd7C38BqgwMrlHspkWlSTL4GqRo3IkRiE7BKQ6Yve+XalFxCdox6gOh6Pju1MQo71lSaMLW7sUUoCHvISjuCu8YnJBoTiMqXPvEOX6Ek7m4baJmzHgs2TaOiCXphJAP0bVur1Ac7SaS7jN/z3ndTVhTOfn5WgaUeSQnAIjsKqxg453zxsYWEBE+eT6t6g1Pv3/aT781CJ81Bp5tHUxo8lm9TzW9VRRqgYBuUHzwmcQLEBgw9XDS/HYJ9X2a6oIDOyUg+waaz9JAIPKijLzqvyuT8wvRMPOEOhmJw8lCXZzF4FgkpbLTyN47xH0ddvx5OLSTPFN13ZdMCBlxtERHqDsjhy7ETYVloChLGpPp/CuI2oG6Y='
+      password: '{cipher}AQCoYk1uZlvggHka7ejwd7C38BqgwMrlHspkWlSTL4GqRo3IkRiE7BKQ6Yve+XalFxCdox6gOh6Pju1MQo71lSaMLW7sUUoCHvISjuCu8YnJBoTiMqXPvEOX6Ek7m4baJmzHgs2TaOiCXphJAP0bVur1Ac7SaS7jN/z3ndTVhTOfn5WgaUeSQnAIjsKqxg453zxsYWEBE+eT6t6g1Pv3/aT781CJ81Bp5tHUxo8lm9TzW9VRRqgYBuUHzwmcQLEBgw9XDS/HYJ9X2a6oIDOyUg+waaz9JAIPKijLzqvyuT8wvRMPOEOhmJw8lCXZzF4FgkpbLTyN47xH0ddvx5OLSTPFN13ZdMCBlxtERHqDsjhy7ETYVloChLGpPp/CuI2oG6Y='
       hikari:
          minimum-idle: 10
          maximum-pool-size: 20
